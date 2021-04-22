@@ -1,1 +1,1 @@
-# 372_kickstarter_project
+# CISC732 Final Project: Prediction_on_Success_of_Kickstarter_Project_Crowdfunding
